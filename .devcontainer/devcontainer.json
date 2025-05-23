@@ -1,0 +1,8 @@
+{
+  "name": "DaniApp",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/expo-cli:1": {},
+    "ghcr.io/devcontainers-extra/features/eas-cli:1": {}
+  }
+}
